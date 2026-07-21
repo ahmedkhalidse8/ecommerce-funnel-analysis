@@ -48,10 +48,10 @@ Analysis of ~50K customers and $681M in revenue to understand purchasing behavio
 
 ## Repository Structure
 
-├── data/ → customer, transaction, and funnel-stage datasets
-├── dashboard/ → Power BI dashboard file (.pbix)
-├── notebooks/ → Python analysis notebook
-└── visuals/ → dashboard preview screenshots
+- `data/` — customer, transaction, and funnel-stage datasets
+- `dashboard/` — Power BI dashboard file (.pbix)
+- `notebooks/` — Python analysis notebook
+- `visuals/` — dashboard preview screenshots
 
 
 ## Conclusion
